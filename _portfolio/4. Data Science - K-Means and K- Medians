@@ -1,0 +1,26 @@
+---
+title: "Data Science - K-Means and K- Medians"
+excerpt: "A implementation about two cluster algorithm K-Means and K-Medians, can cluster words belonging to four files <br/><img src='https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Means-2.jpg'>"
+collection: portfolio
+---
+
+For more information, you can [check this Repository in my Github](https://github.com/han-ziqi/K-Means-and-K-Medians).
+
+- This project is a implementation about two **cluster algorithm** [K-Means](https://en.wikipedia.org/wiki/K-means_clustering) and [K-Medians](https://en.wikipedia.org/wiki/K-medians_clustering). 
+
+- The **kmeans.py** can cluster words belonging to four files: *animals*, *countries*, *fruits* and *veggies*.
+- The standalone .py file including:
+  - Implement K-Means and K-Medians clustering algorithm
+  - Vary K value from 1-9, then calculate the B-CUBED precision, recall, and F-score for each set of clusters. Then plot the result.
+  - Normalise each data object (vector) to unit l2 length before clustering, then re-run the algrithm and plot  B-CUBED precision, recall, and F-score
+
+You can see these demo
+
+1. Demo for K-Means:
+![Kmeans](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Means-2.jpg)
+
+2. Demo for K-Medians:
+![Kmedians](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/K-Medians-2.jpg)
+
+3. Vary K value, and Normalise each data object (vector) to unit l2 length before clustering, then compare and analysis
+![compare](https://github.com/han-ziqi/K-Means-and-K-Medians/raw/master/demo/Compare.jpeg)
