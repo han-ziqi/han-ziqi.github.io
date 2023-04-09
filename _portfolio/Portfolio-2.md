@@ -1,7 +1,12 @@
 ---
 title: "Deep Learning Project"
-excerpt: "A Project that implemented OpenaiGym's Lunar landing <br/><img src=''>"
+excerpt: "A Project that implemented OpenaiGym's Lunar landing <br/><img src='https://github.com/han-ziqi/DeepLearning-openaigym/raw/master/demo/lunar_lander_continuous.gif'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project, I 
+- Compared the [Q-learning algorithm](https://en.wikipedia.org/wiki/Q-learning) with the AC algorithm 
+- Introduced the [A2C algorithm](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
+- Implemented the A2C algorithm and finish deep learning training.
+
+For more information, you can [check this Repository in my Github](https://github.com/han-ziqi/DeepLearning-openaigym).
