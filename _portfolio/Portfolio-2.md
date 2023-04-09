@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number Short description of portfolio item numberShort description of portfolio item number <br/><img src='/images/500x300.png'>"
+title: "Deep Learning Project"
+excerpt: "A Project that implemented OpenaiGym's Lunar landing <br/><img src=''>"
 collection: portfolio
 ---
 
