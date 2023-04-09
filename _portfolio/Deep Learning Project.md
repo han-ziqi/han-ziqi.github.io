@@ -9,4 +9,10 @@ In this project, I
 - Introduced the [A2C algorithm](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
 - Implemented the A2C algorithm and finish deep learning training.
 
+The following figure shows the training process in the console:
+![demo for training](https://github.com/han-ziqi/DeepLearning-openaigym/raw/master/demo/Train%20result.jpeg)
+
+This following gif is from [OpenAI Gym](https://www.gymlibrary.dev), can on behalf of my project
+![gif](https://github.com/han-ziqi/DeepLearning-openaigym/raw/master/demo/lunar_lander_continuous.gif)
+
 For more information, you can [check this Repository in my Github](https://github.com/han-ziqi/DeepLearning-openaigym).
