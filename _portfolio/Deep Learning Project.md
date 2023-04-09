@@ -4,6 +4,8 @@ excerpt: "A Project that implemented OpenaiGym's Lunar landing <br/><img src='ht
 collection: portfolio
 ---
 
+For more information, you can [check this Repository in my Github](https://github.com/han-ziqi/DeepLearning-openaigym).
+
 In this project, I 
 - Compared the [Q-learning algorithm](https://en.wikipedia.org/wiki/Q-learning) with the AC algorithm 
 - Introduced the [A2C algorithm](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
@@ -15,4 +17,4 @@ The following figure shows the training process in the console:
 This following gif is from [OpenAI Gym](https://www.gymlibrary.dev), can on behalf of my project
 ![gif](https://github.com/han-ziqi/DeepLearning-openaigym/raw/master/demo/lunar_lander_continuous.gif)
 
-For more information, you can [check this Repository in my Github](https://github.com/han-ziqi/DeepLearning-openaigym).
+
