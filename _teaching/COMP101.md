@@ -2,7 +2,7 @@
 title: "TA_COMP101 - Introduction To Programming"
 collection: teaching
 type: "Level 4 FHEQ"
-permalink: /teaching/1. COMP101
+permalink: /teaching/COMP101
 venue: "University of Liverpool,  Department Of Computer Science"
 date: 2021-09-24
 location: "Liveropol, Uk"
