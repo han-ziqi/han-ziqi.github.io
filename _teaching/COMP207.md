@@ -2,7 +2,7 @@
 title: "TA_COMP207 - Database Development"
 collection: teaching
 type: "Level 5 FHEQ"
-permalink: /teaching/2. COMP207
+permalink: /teaching/COMP207
 venue: "University of Liverpool,  Department Of Computer Science"
 date: 2021-09-24
 location: "Liveropol, Uk"
