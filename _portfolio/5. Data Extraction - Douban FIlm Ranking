@@ -1,0 +1,19 @@
+---
+title: " Data Extraction - Douban FIlm Ranking"
+excerpt: "This is a data extraction program that extracts the annual [top250 movie rankings](https://movie.douban.com/top250?start=0&filter=) from a [Chinese movie review site](https://www.douban.com) <br/><img src='https://github.com/han-ziqi/douban/raw/master/demo/Result%20in%20SQLite3%20view.png'>"
+collection: portfolio
+---
+
+### For more information, you can [check this Repository in my Github](https://github.com/han-ziqi/dataExtract_douban).
+
+This is a data extraction program that extracts the annual [top250 movie rankings](https://movie.douban.com/top250?start=0&filter=) from a [Chinese movie review site](https://www.douban.com)
+
+The program can extract data automatically at runtime. Once run, the data can be saved in Excel format and SQLite format.
+
+Here is a demo:
+
+1. Excel .xls format
+![Excel](https://github.com/han-ziqi/douban/raw/master/demo/Result%20in%20Excel%20view.png)
+
+2. SQLite .db format:
+![SQLite](https://github.com/han-ziqi/douban/raw/master/demo/Result%20in%20SQLite3%20view.png)
