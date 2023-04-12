@@ -6,6 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can find my CV here
+You can find my [CV here](https://github.com/han-ziqi/han-ziqi.github.io/raw/master/files/CV%20Ziqi%20Han.pdf)
 {% include base_path %}
 
